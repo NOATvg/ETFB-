@@ -14,7 +14,7 @@ local playerGui = player:WaitForChild("PlayerGui")
 -- ============= CONFIG =============
 local CORRECT_KEY = "68170246I$6528"
 
-local GET_KEY_LINK = "https://yorurl.com/YGHOgl"                  
+local GET_KEY_LINK = "https://linkvertise.com/1279978/ESEqa7W5xj79?o=sharing"                  
 local DISCORD_LINK = "https://discord.gg/yourserverhere"  
 
 local function runMainScript()
