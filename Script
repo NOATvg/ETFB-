@@ -15,7 +15,7 @@ local playerGui = player:WaitForChild("PlayerGui")
 local CORRECT_KEY = "68170246I$6528"
 
 local GET_KEY_LINK = "https://yorurl.com/YGHOgl"                  
-local DISCORD_LINK = "https://discord.gg/yourserverhere"  
+local DISCORD_LINK = "https://discord.gg/7tqF4sDReU"  
 
 local function runMainScript()
     -- Automatically loads the new script on correct key
